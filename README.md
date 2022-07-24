@@ -1,4 +1,11 @@
-### Hi there 👋
+
+
+## Hi! I'm Kelli 🤠
+
+##### 🤝 Pronouns: She/Her/Hers
+
+ - 📚 Currently Learning: Advanced JavaScript, Advanced CSS, SQL, C#, Entity, Java, NodeJs, Advanced GraphQL
+ - 📆 Future Learning: Vue, Angular, Python, D3, Machine Learning, iOS & Android Development, Kubernetes, Docker
 
 <!--
 **kel7774/kel7774** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
