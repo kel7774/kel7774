@@ -16,11 +16,14 @@
 </div>
  &nbsp;
 <div align="center">
-<strong>📚 Currently learning:</strong>
-  <p>Advanced JavaScript, Advanced CSS, SQL, C#, Java, Node.js, Advanced GraphQL</p>
+<strong>📚 I know a good bit about:</strong>
+  <p>HTML, CSS, JavaScript, React, Next, Java, C#, Vercel, Data Structures, Basic Algorithms</p>
   &nbsp;
-  <strong>🚀 For the future:</strong>
+  <strong>🚀 I wanna know more about:</strong>
   <p>Vue, Angular, Python, D3, Machine Learning, iOS & Android Development, Kubernetes, Docker</p>
+  &nbsp;
+  <strong>🎨 When I'm not coding, I like:</strong>
+  <p>Reading, swimming laps, running, soaking up sunshine, singing karaoke, dancing to live music, & watching Scrubs</p>
 </div>
 <!--
 **kel7774/kel7774** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
