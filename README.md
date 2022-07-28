@@ -20,7 +20,7 @@
   <p>HTML, CSS, JavaScript, React, Next, Java, C#, Vercel, Data Structures, Basic Algorithms</p>
   &nbsp;
   <strong>🚀 I wanna know more about:</strong>
-  <p>Vue, Angular, Python, D3, Machine Learning, iOS & Android Development, Kubernetes, Docker</p>
+  <p>DevOps, Kubernetes, Docker, Vue, Angular, Python, D3, Machine Learning, iOS & Android Development</p>
   &nbsp;
   <strong>🎨 When I'm not coding, I like:</strong>
   <p>Reading, swimming laps, running, soaking up sunshine, singing karaoke, dancing to live music, & watching Scrubs</p>
