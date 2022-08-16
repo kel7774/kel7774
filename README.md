@@ -13,6 +13,7 @@
  &nbsp;
  <p>🤝 Pronouns: She/Her/Hers</p>
  <p>📍 Working in: Louisiana, USA (for now)</p>
+ <p>🏄🏻‍♀️ Making things happen @: CGI as a Scrum Master & DevOps Consultant</p>
  <p>🧗🏽‍♀️ Current goal: Become a full-stack developer, which includes DevOps (I know, I'm reaching high!)</p>
 </div>
  &nbsp;
