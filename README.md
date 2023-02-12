@@ -12,26 +12,26 @@
  <p>👆 That's me!</p>
  &nbsp;
  <p>🤝 Pronouns: She/Her/Hers</p>
- <p>📍 Working in: Louisiana, USA (for now)</p>
+ <p>📍 Working in: Louisiana, USA</p>
  <p>🏄🏻‍♀️ Making things happen @: CGI as a Scrum Master & DevOps Consultant</p>
  <p>🧗🏽‍♀️ Current goal: Become a full-stack developer, which includes DevOps (I know, I'm reaching high!)</p>
 </div>
  &nbsp;
 <div align="center">
 <strong>📚 I know a good bit about:</strong>
-  <p>HTML, CSS, JavaScript, React, Next, Java, C#, Vercel, Data Structures, Basic Algorithms</p>
+  <p>HTML, CSS, JavaScript, React, NextJS, Java, C#, Vercel, Data Structures, Basic Algorithms</p>
   &nbsp;
   <strong>🚀 I wanna know more about:</strong>
   <p>DevOps, Kubernetes, Docker, Vue, Angular, Python, D3, Machine Learning, iOS & Android Development</p>
   &nbsp;
-  <strong>👩🏻‍💻 The current courses I'm taking:</strong>
+  <strong>👩🏻‍💻 Courses I dip into:</strong>
   <p><a href="https://www.udemy.com/course/decodingdevops/" target="_blank">DevOps Beginners to Advanced | Decoding DevOps with Projects</a></p>
   <p><a href="https://www.udemy.com/course/sql-and-postgresql/" target="_blank">SQL and PostgreSQL: The Complete Developer's Guide</a></p>
   <p><a href="https://www.udemy.com/course/the-python-mega-course/" target="_blank">The Python Mega Course: Build 10 Real World Applications</a></p>
   <p><a href="https://www.udemy.com/course/advanced-javascript-concepts/" target="_blank">JavaScript: The Advanced Concepts</a></p>
   &nbsp;
   <strong>🎨 When I'm not coding, I like:</strong>
-  <p>Reading, swimming laps, running, soaking up sunshine, singing karaoke, dancing to live music, & watching Scrubs</p>
+  <p>Reading, hiking, swimming laps, soaking up sunshine, singing karaoke, dancing to live music, & watching TikToks</p>
 </div>
 <!--
 **kel7774/kel7774** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
