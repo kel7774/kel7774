@@ -14,7 +14,7 @@
  <p>🤝 Pronouns: She/Her/Hers</p>
  <p>📍 Working in: Louisiana, USA</p>
  <p>🏄🏻‍♀️ Making things happen @: CGI as a Scrum Master & DevOps Consultant</p>
- <p>🧗🏽‍♀️ Current goal: Become a full-stack developer, which includes DevOps (I know, I'm reaching high!)</p>
+ <p>🧗🏽‍♀️ Current goal: Pursuing full time project management in the tech industry</p>
 </div>
  &nbsp;
 <div align="center">
@@ -22,13 +22,7 @@
   <p>HTML, CSS, JavaScript, React, NextJS, Java, C#, Vercel, Data Structures, Basic Algorithms</p>
   &nbsp;
   <strong>🚀 I wanna know more about:</strong>
-  <p>DevOps, Kubernetes, Docker, Vue, Angular, Python, D3, Machine Learning, iOS & Android Development</p>
-  &nbsp;
-  <strong>👩🏻‍💻 Courses I dip into:</strong>
-  <p><a href="https://www.udemy.com/course/decodingdevops/" target="_blank">DevOps Beginners to Advanced | Decoding DevOps with Projects</a></p>
-  <p><a href="https://www.udemy.com/course/sql-and-postgresql/" target="_blank">SQL and PostgreSQL: The Complete Developer's Guide</a></p>
-  <p><a href="https://www.udemy.com/course/the-python-mega-course/" target="_blank">The Python Mega Course: Build 10 Real World Applications</a></p>
-  <p><a href="https://www.udemy.com/course/advanced-javascript-concepts/" target="_blank">JavaScript: The Advanced Concepts</a></p>
+  <p>Data Analytics, Key Performance Indicators, Process Refinement and Management, Employee Engagement, Project Management</p>
   &nbsp;
   <strong>🎨 When I'm not coding, I like:</strong>
   <p>Reading, hiking, swimming laps, soaking up sunshine, singing karaoke, dancing to live music, & watching TikToks</p>
