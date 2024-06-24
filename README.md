@@ -13,16 +13,16 @@
  &nbsp;
  <p>🤝 Pronouns: She/Her/Hers</p>
  <p>📍 Working in: Louisiana, USA</p>
- <p>🏄🏻‍♀️ Making things happen @: CGI as a Scrum Master & DevOps Consultant</p>
- <p>🧗🏽‍♀️ Current goal: Pursuing full time project management in the tech industry</p>
+ <p>🏄🏻‍♀️ Making things happen @: CGI as a Certified SAFe Scrum Master</p>
+ <p>🧗🏽‍♀️ Current goal: Striving to lift up others by leading heart first</p>
 </div>
  &nbsp;
 <div align="center">
 <strong>📚 I know a good bit about:</strong>
-  <p>HTML, CSS, JavaScript, React, NextJS, Java, C#, Vercel, Data Structures, Basic Algorithms</p>
+  <p>The software development lifecycle, project, task, risk, and time management, DevOps, Agile Methodologies, release planning, & facilitation </p>
   &nbsp;
   <strong>🚀 I wanna know more about:</strong>
-  <p>Data Analytics, Key Performance Indicators, Process Refinement and Management, Employee Engagement, Project Management</p>
+  <p>Data Analytics, Key Performance Indicators, Process Refinement and Management, Employee Engagement</p>
   &nbsp;
   <strong>🎨 When I'm not coding, I like:</strong>
   <p>Reading, hiking, swimming laps, soaking up sunshine, singing karaoke, dancing to live music, & watching TikToks</p>
